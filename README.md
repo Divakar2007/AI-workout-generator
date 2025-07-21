@@ -1,2 +1,14 @@
-# AI-workout-generator
-The AI Workout Generator is a smart web application that acts as your personal digital fitness coach. It uses Google's Gemini AI to create customized workout routines tailored to your specific needs and goals.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

@@ -1,0 +1,5 @@
+{
+  "name": "AI Workout Generator",
+  "description": "A smart workout generator that creates personalized fitness plans using AI. Specify your workout type, target muscles, fitness level, and available equipment to get a custom routine in seconds.",
+  "requestFramePermissions": []
+}
